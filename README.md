@@ -1,6 +1,6 @@
 # PRODIGY_WD_4
 
-# Chaitali Waware – Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website, which highlights my profile, skills, projects, and certifications. It serves as an online resume to showcase my experience, learning journey, and ways to connect with me.
 
